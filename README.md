@@ -10,7 +10,6 @@
 - HTML
 - CSS
 - JavaScript
--React
 
 ## Current Projects
 - [Portfolio Website](https://github.com/rahabkungu/Portfolio-website-.git)— My personal portfolio website.
