@@ -21,4 +21,8 @@
 
 ### Markdown practice
 - [view my markdown practice](https://github.com/rahabkungu/Markdown-practice-/blob/main/Markdown-practice.md)
+### Git configuration
+```text
+user.name=Rahab Kungu
+user.email=rahabkungu24@gmail.com
 
