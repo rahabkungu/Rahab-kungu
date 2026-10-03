@@ -18,3 +18,7 @@
 - Email: rahabkungu24@gmail.com
 ### Live page
 - [View my live page](https://rahabkungu.github.io/My-personal-site/)
+
+### Markdown practice
+- [view my markdown practice](https://github.com/rahabkungu/Markdown-practice-/blob/main/Markdown-practice.md)
+
