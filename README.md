@@ -25,7 +25,7 @@
 ### Team collaboration
 - Team repository: [view team repository] (https://github.com/gracesaigilu/Iyf-s12-week-00-team-gracesaigilu).
 - Pull requests: [view my contributions] (https://github.com/gracesaigilu/Iyf-s12-week-00-team-gracesaigilu/pulls?q=is%3Apr+state%3Aclosed).
-- Issues and board: [view team board] (https://github.com/gracesaigilu/Iyf-s12-week-00-team-graceaigilu/issues/3) (https://github.com/users/rahabkungu/project/5).
+- Issues and board: [view team board] (https://github.com/gracesaigilu/Iyf-s12-week-00-team-gracesaigilu/issues?q=is%3Aissue+state%3Aopen+repo%3Agracesaigilu%2FIyf-s12-week-00-team-gracesaigilu) (https://github.com/users/rahabkungu/project/5).
 
 
 
