@@ -21,6 +21,18 @@
 
 ### Markdown practice
 - [view my markdown practice](https://github.com/rahabkungu/Markdown-practice-/blob/main/Markdown-practice.md)
+
+### Team collaboration
+- Team repository: [view team repository] (https://github.com/gracesaigilu/Iyf-s12-week-00-team-gracesaigilu).
+- Pull requests: [view my contributions] (https://github.com/gracesaigilu/Iyf-s12-week-00-team-gracesaigilu/pulls?q=is%3Apr+state%3Aclosed).
+- Issues and board: [view team board] (https://github.com/gracesaigilu/Iyf-s12-week-00-team-graceaigilu/issues/3) (https://github.com/users/rahabkungu/project/5).
+
+
+
+
+
+
+  
 ### Git configuration
 ```text
 user.name=Rahab Kungu
